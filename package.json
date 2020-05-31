@@ -1,16 +1,19 @@
 {
-  "name": "bootstrap",
+  "name": "fullstackdev",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-	"start": "npm run lite",
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-	"lite": "lite-server"
+    "lite": "lite-server"
   },
   "author": "Alexandre Davitaia",
   "license": "ISC",
   "dependencies": {
-    "lite-server": "^2.5.4"
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "lite-server": "^2.5.4",
+    "popper.js": "^1.16.1"
   }
 }
