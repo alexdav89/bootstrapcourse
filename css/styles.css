@@ -37,3 +37,10 @@ body{
 .navbar-dark {
      background-color: #512DA8 !important;
 }
+
+.reserve-form {
+	margin-left: auto;
+    margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
