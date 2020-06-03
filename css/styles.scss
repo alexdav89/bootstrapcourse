@@ -77,7 +77,13 @@ body{
 
 #bookingModal .modal-header, #loginModal .modal-header {
 	background-color: #512DA8;
+	color: floralwhite;
 }
+
+#bookingModal .modal-header button, #loginModal .modal-header button {
+	color: floralwhite;
+}
+
 
 #bookingModal .modal-body, #loginModal .modal-body {
 	background-color: #D7BDE2;
