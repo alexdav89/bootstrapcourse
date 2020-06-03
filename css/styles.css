@@ -52,3 +52,9 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+#bookingModal .modal-header, #loginModal .modal-header {
+  background-color: #512DA8; }
+
+#bookingModal .modal-body, #loginModal .modal-body {
+  background-color: #D7BDE2; }
